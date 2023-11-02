@@ -5,5 +5,6 @@ public class ADD {
 
     public void display(){};
 
+    public void display2(){};
 
 }
